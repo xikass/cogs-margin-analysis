@@ -1,5 +1,10 @@
 # Pharmaceutical COGS & Margin Exposure Analysis
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg)](https://www.sqlite.org/)
+[![Domain: Finance](https://img.shields.io/badge/Domain-Finance-2ea44f.svg)](#)
+
 A decision-grade cost accounting, margin vulnerability, and commodity shock resilience framework for multi-sector pharmaceutical manufacturing, implemented in SQL (SQLite) and Python (pandas/NumPy/SciPy).
 
 ---
