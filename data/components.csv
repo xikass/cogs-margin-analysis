@@ -1,0 +1,121 @@
+component_id,name,type,supplier,unit_cost,is_imported
+CMP-001,Amoxicillin Trihydrate USP,API,SolvChem Global,253.44,1
+CMP-002,Paracetamol Fine Powder,API,Aegis Polymers Inc,224.95,1
+CMP-003,Metformin HCl BP,API,PurePharma Specialties,195.44,0
+CMP-004,Ciprofloxacin HCl BP,API,Nordic Ingredients A/S,82.75,1
+CMP-005,Omeprazole Pellets 8.5%,API,BioPack Container Corp,87.41,1
+CMP-006,Atorvastatin Calcium USP,API,Zhejiang FineChem,37.38,0
+CMP-007,Azithromycin Dihydrate,API,Alpine Pharma Supplies,192.87,1
+CMP-008,Losartan Potassium BP,API,Vantage Excipients,53.73,1
+CMP-009,Ibuprofen Granular 90%,API,Omega Lipid Works,129.93,0
+CMP-010,Cetirizine Di-HCl USP,API,Apex BioChem Ltd,74.8,1
+CMP-011,Sodium Hyaluronate 1.5MDa,API,SolvChem Global,235.82,1
+CMP-012,Sodium Ascorbyl Phosphate,API,Aegis Polymers Inc,138.29,0
+CMP-013,Niacinamide Pure 99%,API,PurePharma Specialties,158.68,1
+CMP-014,Pure Retinol 50S Complex,API,Nordic Ingredients A/S,189.36,1
+CMP-015,Zinc Oxide Micro 60%,API,BioPack Container Corp,60.32,0
+CMP-016,Ceramide Complex NP/AP/EOP,API,Zhejiang FineChem,168.22,1
+CMP-017,Salicylic Acid Sublimed,API,Alpine Pharma Supplies,153.24,1
+CMP-018,Matrixyl 3000 Peptide Sol,API,Vantage Excipients,75.11,0
+CMP-019,Cold-Pressed Argan Oil,API,Omega Lipid Works,246.74,1
+CMP-020,Organic Rose Damascena Distillate,API,Apex BioChem Ltd,166.94,1
+CMP-021,Ivermectin Micronized EP,API,SolvChem Global,189.19,0
+CMP-022,Enrofloxacin Base USP,API,Aegis Polymers Inc,232.27,1
+CMP-023,Oxytetracycline Dihydrate,API,PurePharma Specialties,172.85,1
+CMP-024,Fenbendazole Vet Grade,API,Nordic Ingredients A/S,96.59,0
+CMP-025,Doxycycline Hyclate BP,API,BioPack Container Corp,52.47,1
+CMP-026,Meloxicam Micronized,API,Zhejiang FineChem,133.92,1
+CMP-027,Tilmicosin Technical Base,API,Alpine Pharma Supplies,78.68,0
+CMP-028,Albendazole Micronized BP,API,Vantage Excipients,124.63,1
+CMP-029,Amoxicillin/Pot Clavulanate,API,Omega Lipid Works,232.92,1
+CMP-030,Fipronil Technical 98%,API,Apex BioChem Ltd,103.25,0
+CMP-031,Vitamin D3 Crystal 40M IU/g,API,SolvChem Global,56.32,1
+CMP-032,Fish Oil EPA/DHA 50/20 EE,API,Aegis Polymers Inc,110.66,1
+CMP-033,Magnesium Bisglycinate Pure,API,PurePharma Specialties,238.38,0
+CMP-034,Zinc Picolinate Chelate 20%,API,Nordic Ingredients A/S,91.13,1
+CMP-035,Ferrous Bisglycinate 20% Fe,API,BioPack Container Corp,178.26,1
+CMP-036,Coenzyme Q10 Pure 99%,API,Zhejiang FineChem,28.12,0
+CMP-037,Probiotic Blend 100B CFU/g,API,Alpine Pharma Supplies,109.8,1
+CMP-038,B-Complex Active Coenzymes,API,Vantage Excipients,98.71,1
+CMP-039,Calcium Citrate Malate 24%,API,Omega Lipid Works,66.2,0
+CMP-040,Ashwagandha Root Extract 5%,API,Apex BioChem Ltd,151.91,1
+CMP-041,Microcrystalline Cellulose PH102,EXCIPIENT,SolvChem Global,8.93,0
+CMP-042,Lactose Monohydrate 200M,EXCIPIENT,Aegis Polymers Inc,11.98,1
+CMP-043,Magnesium Stearate Pharma,EXCIPIENT,PurePharma Specialties,5.76,0
+CMP-044,Colloidal Silicon Dioxide,EXCIPIENT,Nordic Ingredients A/S,5.39,1
+CMP-045,Croscarmellose Sodium,EXCIPIENT,BioPack Container Corp,4.27,0
+CMP-046,Povidone K30 USP,EXCIPIENT,Zhejiang FineChem,,1
+CMP-047,Hydroxypropyl Methylcellulose,EXCIPIENT,Alpine Pharma Supplies,10.0,0
+CMP-048,Corn Starch Pharmaceutical,EXCIPIENT,Vantage Excipients,7.74,1
+CMP-049,Sodium Starch Glycolate,EXCIPIENT,Omega Lipid Works,2.75,0
+CMP-050,Purified Water USP,EXCIPIENT,Apex BioChem Ltd,5.53,1
+CMP-051,Propylene Glycol Pharma,EXCIPIENT,SolvChem Global,5.43,0
+CMP-052,Vegetable Glycerin 99.7%,EXCIPIENT,Aegis Polymers Inc,12.04,1
+CMP-053,Citric Acid Anhydrous,EXCIPIENT,PurePharma Specialties,-12.27,0
+CMP-054,Sodium Citrate Dihydrate,EXCIPIENT,Nordic Ingredients A/S,3.98,1
+CMP-055,Xanthan Gum 200 Mesh,EXCIPIENT,BioPack Container Corp,16.47,0
+CMP-056,Carbomer 940 Polymer,EXCIPIENT,Zhejiang FineChem,5.72,1
+CMP-057,Triethanolamine 99%,EXCIPIENT,Alpine Pharma Supplies,16.16,0
+CMP-058,Cetearyl Alcohol 50/50,EXCIPIENT,Vantage Excipients,7.84,1
+CMP-059,Ceteareth-20 Emulsifier,EXCIPIENT,Omega Lipid Works,2.29,0
+CMP-060,Dimethicone 350 cSt,EXCIPIENT,Apex BioChem Ltd,6.87,1
+CMP-061,Caprylic/Capric Triglyceride,EXCIPIENT,SolvChem Global,11.12,0
+CMP-062,Shea Butter Refined,EXCIPIENT,Aegis Polymers Inc,11.81,1
+CMP-063,Polysorbate 80 Tween,EXCIPIENT,PurePharma Specialties,9.6,0
+CMP-064,Sorbitol 70% Solution,EXCIPIENT,Nordic Ingredients A/S,8.38,1
+CMP-065,Methylparaben BP/USP,EXCIPIENT,BioPack Container Corp,9.93,0
+CMP-066,Propylparaben BP/USP,EXCIPIENT,Zhejiang FineChem,10.51,1
+CMP-067,Phenoxyethanol Pure,EXCIPIENT,Alpine Pharma Supplies,2.99,0
+CMP-068,Ethylhexylglycerin,EXCIPIENT,Vantage Excipients,7.23,1
+CMP-069,Disodium EDTA USP,EXCIPIENT,Omega Lipid Works,5.36,0
+CMP-070,Tocopherol Acetate Vitamin E,EXCIPIENT,Apex BioChem Ltd,13.61,1
+CMP-071,Sodium Hydroxide 1N Pellets,EXCIPIENT,SolvChem Global,8.71,0
+CMP-072,Hydrochloric Acid 37% Pharma,EXCIPIENT,Aegis Polymers Inc,16.26,1
+CMP-073,Ethanol 96% Denatured,EXCIPIENT,PurePharma Specialties,7.66,0
+CMP-074,Isopropyl Alcohol 99.9%,EXCIPIENT,Nordic Ingredients A/S,13.8,1
+CMP-075,Polyethylene Glycol 400,EXCIPIENT,BioPack Container Corp,13.54,0
+CMP-076,Polyethylene Glycol 4000,EXCIPIENT,Zhejiang FineChem,4.02,1
+CMP-077,Sodium Chloride USP Granular,EXCIPIENT,Alpine Pharma Supplies,9.27,0
+CMP-078,Potassium Sorbate Food Grade,EXCIPIENT,Vantage Excipients,12.03,1
+CMP-079,Sodium Benzoate BP,EXCIPIENT,Omega Lipid Works,,0
+CMP-080,Lecithin Soya De-oiled,EXCIPIENT,Apex BioChem Ltd,6.59,1
+CMP-081,Medium Chain Triglycerides,EXCIPIENT,SolvChem Global,5.04,0
+CMP-082,Flavor Peppermint Natural,EXCIPIENT,Aegis Polymers Inc,12.25,1
+CMP-083,Flavor Sweet Orange USP,EXCIPIENT,PurePharma Specialties,13.7,0
+CMP-084,Sucralose Micronized Powder,EXCIPIENT,Nordic Ingredients A/S,6.93,1
+CMP-085,Titanium Dioxide White,EXCIPIENT,BioPack Container Corp,3.21,0
+CMP-086,Iron Oxide Red Pigment,EXCIPIENT,Zhejiang FineChem,15.63,1
+CMP-087,Iron Oxide Yellow Pigment,EXCIPIENT,Alpine Pharma Supplies,7.64,0
+CMP-088,Maltodextrin 18DE,EXCIPIENT,Vantage Excipients,9.41,1
+CMP-089,Silicon Dioxide Anti-Caking,EXCIPIENT,Omega Lipid Works,14.11,0
+CMP-090,Dicalcium Phosphate Anhydrous,EXCIPIENT,Apex BioChem Ltd,11.73,1
+CMP-091,Blister PVC/PVDC Film 250mic,PACKAGING,SolvChem Global,1.47,1
+CMP-092,Hard Aluminum Blister Foil 20mic,PACKAGING,Aegis Polymers Inc,0.5,0
+CMP-093,Unit Folding Box 350gsm,PACKAGING,PurePharma Specialties,1.11,0
+CMP-094,HDPE Wide Mouth Bottle 100ml,PACKAGING,Nordic Ingredients A/S,1.39,1
+CMP-095,Child Resistant Cap 38mm,PACKAGING,BioPack Container Corp,0.54,0
+CMP-096,Induction Heat Seal Liner 38mm,PACKAGING,Zhejiang FineChem,-0.44,0
+CMP-097,Amber Glass Dropper Bottle 30ml,PACKAGING,Alpine Pharma Supplies,1.92,1
+CMP-098,Glass Pipette Dropper Assembly,PACKAGING,Vantage Excipients,1.07,0
+CMP-099,Plastic Pump Dispenser 24/410,PACKAGING,Omega Lipid Works,0.6,0
+CMP-100,Laminate Tube Aluminum-Plastic 50ml,PACKAGING,Apex BioChem Ltd,1.94,1
+CMP-101,Flip-Top Dispensing Cap 24mm,PACKAGING,SolvChem Global,1.89,0
+CMP-102,Corrugated Shipper Outer Box,PACKAGING,Aegis Polymers Inc,1.14,0
+CMP-103,Self-Adhesive BOPP Label 4-Color,PACKAGING,PurePharma Specialties,1.74,1
+CMP-104,Tamper Evident Shrink Sleeve,PACKAGING,Nordic Ingredients A/S,0.47,0
+CMP-105,Desiccant Silica Gel Canister 1g,PACKAGING,BioPack Container Corp,0.63,0
+CMP-106,Amber Glass Serum Bottle 50ml,PACKAGING,Zhejiang FineChem,1.4,1
+CMP-107,HDPE Pill Jar 250ml,PACKAGING,Alpine Pharma Supplies,1.67,0
+CMP-108,CRC Screw Cap 45mm,PACKAGING,Vantage Excipients,1.69,0
+CMP-109,PET Bottle Clear 200ml,PACKAGING,Omega Lipid Works,0.86,1
+CMP-110,Mist Spray Pump Actuator,PACKAGING,Apex BioChem Ltd,1.74,0
+CMP-111,Aluminum Airless Pump Dispenser 50ml,PACKAGING,SolvChem Global,1.68,0
+CMP-112,Secondary Display Outer Box,PACKAGING,Aegis Polymers Inc,1.83,1
+CMP-113,Polyethylene Drench Bottle 1000ml,PACKAGING,PurePharma Specialties,1.56,0
+CMP-114,Drench Nozzle Cap Adapter,PACKAGING,Nordic Ingredients A/S,1.34,0
+CMP-115,Multi-Dose Vial Type I Glass 50ml,PACKAGING,BioPack Container Corp,1.18,1
+CMP-116,Bromobutyl Rubber Stopper 20mm,PACKAGING,Zhejiang FineChem,0.8,0
+CMP-117,Aluminum Tear-Off Flip Cap 20mm,PACKAGING,Alpine Pharma Supplies,1.84,0
+CMP-118,Fipronil Pipette Blister Shell 3pk,PACKAGING,Vantage Excipients,1.9,1
+CMP-119,Blister Foil Push-Through 250x0.02,PACKAGING,Omega Lipid Works,0.64,0
+CMP-120,Instruction Patient Leaflet 45gsm,PACKAGING,Apex BioChem Ltd,0.68,0

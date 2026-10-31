@@ -1,0 +1,14 @@
+scenario_type,scenario_name,parameter_adjustment,top_10_overlap_pct,spearman_rho,portfolio_margin_impact_dollar,margin_impact_pp
+MEI_RANK_STABILITY,Baseline,"None (1.0x API share, baseline margin)",100.0,1.0,0.0,0.0
+MEI_RANK_STABILITY,API Share +20%,API cost share scaled by 1.20x,100.0,0.9999,0.0,0.0
+MEI_RANK_STABILITY,API Share -20%,API cost share scaled by 0.80x,100.0,0.9999,0.0,0.0
+MEI_RANK_STABILITY,Margin Assumption +5pp,Gross margin percentage increased by +5pp,100.0,0.9989,0.0,0.0
+MEI_RANK_STABILITY,Margin Assumption -5pp,Gross margin percentage decreased by -5pp,100.0,0.9993,0.0,0.0
+TORNADO_SHOCK,API Price +10%,API Price shifted by +10.0%,,,-2599305.4,-2.34
+TORNADO_SHOCK,API Price -10%,API Price shifted by -10.0%,,,2599305.4,2.34
+TORNADO_SHOCK,Packaging Cost +10%,Packaging Cost shifted by +10.0%,,,-837720.2,-0.75
+TORNADO_SHOCK,Packaging Cost -10%,Packaging Cost shifted by -10.0%,,,837720.2,0.75
+TORNADO_SHOCK,FX Imported Components +10%,FX Imported shifted by +10.0%,,,-2481636.7,-2.24
+TORNADO_SHOCK,FX Imported Components -10%,FX Imported shifted by -10.0%,,,2481636.7,2.24
+TORNADO_SHOCK,Sales Volume +10%,Sales Volume shifted by +10.0%,,,6791345.7,-0.0
+TORNADO_SHOCK,Sales Volume -10%,Sales Volume shifted by -10.0%,,,-6791345.7,0.0

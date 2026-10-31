@@ -1,0 +1,292 @@
+{
+  "portfolio_summary": {
+    "total_products": 40,
+    "total_annual_units": 4900000,
+    "total_revenue": 111014100.0,
+    "total_cogs": 43100642.96,
+    "total_gross_margin": 67913457.04,
+    "portfolio_gross_margin_pct": 61.18,
+    "total_profit_at_risk": 2599312.73,
+    "portfolio_mei_pct": 3.83
+  },
+  "mei_distribution": {
+    "count": 40,
+    "min_mei_pct": 2.01,
+    "q25_mei_pct": 2.92,
+    "median_mei_pct": 3.95,
+    "mean_mei_pct": 4.96,
+    "q75_mei_pct": 4.91,
+    "max_mei_pct": 35.29
+  },
+  "sector_breakdown": [
+    {
+      "sector": "COSMETICS",
+      "sku_count": 10,
+      "total_units": 780000,
+      "total_revenue": 19613600.0,
+      "total_cogs": 8068155.26,
+      "total_gross_margin": 11545444.74,
+      "gross_margin_pct": 58.86,
+      "total_profit_at_risk": 490708.29,
+      "mei_pct": 4.25
+    },
+    {
+      "sector": "FOOD_SUPPLEMENT",
+      "sku_count": 10,
+      "total_units": 1380000,
+      "total_revenue": 28700400.0,
+      "total_cogs": 11241092.93,
+      "total_gross_margin": 17459307.07,
+      "gross_margin_pct": 60.83,
+      "total_profit_at_risk": 679457.62,
+      "mei_pct": 3.89
+    },
+    {
+      "sector": "HUMAN_PHARMA",
+      "sku_count": 10,
+      "total_units": 2100000,
+      "total_revenue": 43545400.0,
+      "total_cogs": 16666751.19,
+      "total_gross_margin": 26878648.81,
+      "gross_margin_pct": 61.73,
+      "total_profit_at_risk": 966030.67,
+      "mei_pct": 3.59
+    },
+    {
+      "sector": "VETERINARY",
+      "sku_count": 10,
+      "total_units": 640000,
+      "total_revenue": 19154700.0,
+      "total_cogs": 7124643.56,
+      "total_gross_margin": 12030056.44,
+      "gross_margin_pct": 62.8,
+      "total_profit_at_risk": 463116.14,
+      "mei_pct": 3.85
+    }
+  ],
+  "top_10_mei_skus": [
+    {
+      "product_id": "PRD-013",
+      "product_name": "Niacinamide Clarifying Gel 50ml",
+      "sector": "COSMETICS",
+      "unit_price": 22.8,
+      "unit_cost": 19.0142,
+      "gross_margin_pct": 16.6,
+      "api_share": 0.7027,
+      "profit_at_risk": 120251.19,
+      "mei_pct": 35.29,
+      "break_even_api_price": 203.64
+    },
+    {
+      "product_id": "PRD-003",
+      "product_name": "Metformin 850mg Tabs",
+      "sector": "HUMAN_PHARMA",
+      "unit_price": 10.45,
+      "unit_cost": 7.5938,
+      "gross_margin_pct": 27.33,
+      "api_share": 0.4134,
+      "profit_at_risk": 47087.89,
+      "mei_pct": 10.99,
+      "break_even_api_price": 373.26
+    },
+    {
+      "product_id": "PRD-006",
+      "product_name": "Atorvastatin 20mg Tabs",
+      "sector": "HUMAN_PHARMA",
+      "unit_price": 12.05,
+      "unit_cost": 7.1635,
+      "gross_margin_pct": 40.55,
+      "api_share": 0.4646,
+      "profit_at_risk": 39934.0,
+      "mei_pct": 6.81,
+      "break_even_api_price": 92.27
+    },
+    {
+      "product_id": "PRD-020",
+      "product_name": "Rosewater Hydrating Toner 200ml",
+      "sector": "COSMETICS",
+      "unit_price": 22.8,
+      "unit_cost": 12.575,
+      "gross_margin_pct": 44.85,
+      "api_share": 0.5341,
+      "profit_at_risk": 26864.88,
+      "mei_pct": 6.57,
+      "break_even_api_price": 421.09
+    },
+    {
+      "product_id": "PRD-037",
+      "product_name": "Probiotic 50 Billion CFU",
+      "sector": "FOOD_SUPPLEMENT",
+      "unit_price": 11.4,
+      "unit_cost": 5.9662,
+      "gross_margin_pct": 47.67,
+      "api_share": 0.5785,
+      "profit_at_risk": 20708.54,
+      "mei_pct": 6.35,
+      "break_even_api_price": 282.67
+    },
+    {
+      "product_id": "PRD-025",
+      "product_name": "Doxycycline 100mg Vet Tabs",
+      "sector": "VETERINARY",
+      "unit_price": 39.66,
+      "unit_cost": 18.2897,
+      "gross_margin_pct": 53.88,
+      "api_share": 0.696,
+      "profit_at_risk": 101831.6,
+      "mei_pct": 5.96,
+      "break_even_api_price": 140.56
+    },
+    {
+      "product_id": "PRD-017",
+      "product_name": "Salicylic Acid Cleanser 150ml",
+      "sector": "COSMETICS",
+      "unit_price": 21.85,
+      "unit_cost": 9.8487,
+      "gross_margin_pct": 54.93,
+      "api_share": 0.6978,
+      "profit_at_risk": 27491.11,
+      "mei_pct": 5.73,
+      "break_even_api_price": 420.83
+    },
+    {
+      "product_id": "PRD-005",
+      "product_name": "Omeprazole 20mg Caps",
+      "sector": "HUMAN_PHARMA",
+      "unit_price": 27.41,
+      "unit_cost": 13.0219,
+      "gross_margin_pct": 52.49,
+      "api_share": 0.6241,
+      "profit_at_risk": 243808.21,
+      "mei_pct": 5.65,
+      "break_even_api_price": 242.16
+    },
+    {
+      "product_id": "PRD-012",
+      "product_name": "Vitamin C Brightening Cream 50ml",
+      "sector": "COSMETICS",
+      "unit_price": 27.0,
+      "unit_cost": 12.9068,
+      "gross_margin_pct": 52.2,
+      "api_share": 0.6099,
+      "profit_at_risk": 70847.87,
+      "mei_pct": 5.59,
+      "break_even_api_price": 385.87
+    },
+    {
+      "product_id": "PRD-007",
+      "product_name": "Azithromycin 500mg Tabs",
+      "sector": "HUMAN_PHARMA",
+      "unit_price": 14.43,
+      "unit_cost": 7.8634,
+      "gross_margin_pct": 45.51,
+      "api_share": 0.4196,
+      "profit_at_risk": 26398.73,
+      "mei_pct": 5.03,
+      "break_even_api_price": 576.68
+    }
+  ],
+  "top_10_profit_at_risk_skus": [
+    {
+      "product_id": "PRD-005",
+      "product_name": "Omeprazole 20mg Caps",
+      "sector": "HUMAN_PHARMA",
+      "annual_revenue": 8223000.0,
+      "annual_cogs": 3906582.43,
+      "gross_margin": 4316417.57,
+      "profit_at_risk": 243808.21,
+      "mei_pct": 5.65
+    },
+    {
+      "product_id": "PRD-039",
+      "product_name": "Calcium Citrate + D3 120s",
+      "sector": "FOOD_SUPPLEMENT",
+      "annual_revenue": 5286600.0,
+      "annual_cogs": 2194354.81,
+      "gross_margin": 3092245.19,
+      "profit_at_risk": 143309.02,
+      "mei_pct": 4.63
+    },
+    {
+      "product_id": "PRD-010",
+      "product_name": "Cetirizine 10mg Tabs",
+      "sector": "HUMAN_PHARMA",
+      "annual_revenue": 5498000.0,
+      "annual_cogs": 1977642.42,
+      "gross_margin": 3520357.58,
+      "profit_at_risk": 133945.9,
+      "mei_pct": 3.8
+    },
+    {
+      "product_id": "PRD-013",
+      "product_name": "Niacinamide Clarifying Gel 50ml",
+      "sector": "COSMETICS",
+      "annual_revenue": 2052000.0,
+      "annual_cogs": 1711281.1,
+      "gross_margin": 340718.9,
+      "profit_at_risk": 120251.19,
+      "mei_pct": 35.29
+    },
+    {
+      "product_id": "PRD-001",
+      "product_name": "Amoxicillin 500mg Caps",
+      "sector": "HUMAN_PHARMA",
+      "annual_revenue": 5408000.0,
+      "annual_cogs": 1867211.25,
+      "gross_margin": 3540788.75,
+      "profit_at_risk": 119242.51,
+      "mei_pct": 3.37
+    },
+    {
+      "product_id": "PRD-004",
+      "product_name": "Ciprofloxacin 500mg Tabs",
+      "sector": "HUMAN_PHARMA",
+      "annual_revenue": 6066000.0,
+      "annual_cogs": 2237212.67,
+      "gross_margin": 3828787.33,
+      "profit_at_risk": 114270.72,
+      "mei_pct": 2.98
+    },
+    {
+      "product_id": "PRD-032",
+      "product_name": "Omega-3 Triple Fish Oil 1000mg",
+      "sector": "FOOD_SUPPLEMENT",
+      "annual_revenue": 3935800.0,
+      "annual_cogs": 1568740.49,
+      "gross_margin": 2367059.51,
+      "profit_at_risk": 111254.25,
+      "mei_pct": 4.7
+    },
+    {
+      "product_id": "PRD-027",
+      "product_name": "Tilmicosin 300mg Injection 100ml",
+      "sector": "VETERINARY",
+      "annual_revenue": 4107400.0,
+      "annual_cogs": 1472402.57,
+      "gross_margin": 2634997.43,
+      "profit_at_risk": 106371.29,
+      "mei_pct": 4.04
+    },
+    {
+      "product_id": "PRD-036",
+      "product_name": "CoQ10 200mg Softgels",
+      "sector": "FOOD_SUPPLEMENT",
+      "annual_revenue": 6377800.0,
+      "annual_cogs": 1665457.08,
+      "gross_margin": 4712342.92,
+      "profit_at_risk": 105614.1,
+      "mei_pct": 2.24
+    },
+    {
+      "product_id": "PRD-025",
+      "product_name": "Doxycycline 100mg Vet Tabs",
+      "sector": "VETERINARY",
+      "annual_revenue": 3172800.0,
+      "annual_cogs": 1463179.98,
+      "gross_margin": 1709620.02,
+      "profit_at_risk": 101831.6,
+      "mei_pct": 5.96
+    }
+  ],
+  "rank_stability_sentence": "MEI ranking demonstrates strong stability across stress scenarios, maintaining 100.0% to 100.0% top-10 overlap and Spearman rho >= 0.9989 under +/-20% API share and +/-5pp margin shifts."
+}

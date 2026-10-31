@@ -1,0 +1,14 @@
+table_name,record_id,issue_type,raw_value,cleaned_value,remediation_action
+bom_items,PRD-009:CMP-009,DUPLICATE_BOM_ROW,"qty=0.0228, scrap=1.96%",Deduplicated (kept primary entry),REMOVED_DUPLICATE
+bom_items,PRD-034:CMP-042,DUPLICATE_BOM_ROW,"qty=0.0784, scrap=2.37%",Deduplicated (kept primary entry),REMOVED_DUPLICATE
+bom_items,PRD-999:CMP-010,ORPHAN_BOM_REFERENCE,"prod=PRD-999, comp=CMP-010",Excluded orphan reference,PURGED_ORPHAN_ROW
+bom_items,PRD-015:CMP-999,ORPHAN_BOM_REFERENCE,"prod=PRD-015, comp=CMP-999",Excluded orphan reference,PURGED_ORPHAN_ROW
+bom_items,PRD-888:CMP-888,ORPHAN_BOM_REFERENCE,"prod=PRD-888, comp=CMP-888",Excluded orphan reference,PURGED_ORPHAN_ROW
+components,CMP-046,NULL_UNIT_COST,NULL,$8.55 (type median),IMPUTED_MEDIAN
+components,CMP-079,NULL_UNIT_COST,NULL,$8.55 (type median),IMPUTED_MEDIAN
+components,CMP-053,NEGATIVE_UNIT_COST,$-12.27,$12.27 (absolute magnitude),RECTIFIED_SIGN
+components,CMP-096,NEGATIVE_UNIT_COST,$-0.44,$0.44 (absolute magnitude),RECTIFIED_SIGN
+products,PRD-008,ZERO_BATCH_SIZE,0,20000 units (sector median),IMPUTED_SECTOR_MEDIAN
+products,PRD-024,ZERO_BATCH_SIZE,0,10000 units (sector median),IMPUTED_SECTOR_MEDIAN
+products,PRD-013,NON_POSITIVE_PRICE,$0.00,$22.80 (sector median),IMPUTED_SECTOR_MEDIAN
+products,PRD-032,NON_POSITIVE_PRICE,$-14.50,$17.89 (sector median),IMPUTED_SECTOR_MEDIAN
